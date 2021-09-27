@@ -1,0 +1,4 @@
+water: 물
+dog: 개
+church: 교회
+wallet: 지갑
